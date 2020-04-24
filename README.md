@@ -1,2 +1,2 @@
 # Xtra-Theme
-Xtra Theme is an fully HTML and CSS developed project.
+Xtra Theme is an fully HTML and CSS developed project.Xtra Theme is an website template of any basic insurance comapny website.Xtra Theme is developed according to the needs of any insurance company.This project contains 6 pages or sections like Home page,types of insurances,About,Block,Contact page.CSS section of this template is developed by using fully grid and with some new and unique hover effects and box shadows effects and also with CSS sliders.
