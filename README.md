@@ -19,4 +19,4 @@ Xtra-Insurance Theme is an website template for insurance based organization.Xtr
 
 ## Project Preview:
 
-(https://ali-tahir4024.github.io/Xtra-Theme/).
+[Xtra Theme](https://alitahir4024.github.io/Xtra-Theme/)
